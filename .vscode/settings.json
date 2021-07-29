@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/eduardo/Downloads/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25.jar",
+        "/Users/eduardo/Downloads/org-apache-commons-codec.jar"
+    ]
+}
