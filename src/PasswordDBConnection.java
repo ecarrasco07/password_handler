@@ -7,9 +7,9 @@ import java.sql.ResultSet;
 public class PasswordDBConnection{
 
     private static final String driver = "com.mysql.cj.jdbc.Driver";
-	private static final String url = "jdbc:mysql://localhost:3306/passwords";
-	private static final String user = "root";
-	private static final String pswd = "password";
+	private static final String url = ""; //url for local host
+	private static final String user = ""; //username for sql
+	private static final String pswd = ""; //password for sql server
 
 
 public void addPassword(String sql) throws Exception{
